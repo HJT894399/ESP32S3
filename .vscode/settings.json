@@ -1,0 +1,29 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "D:/software/Espressif/frameworks/esp-idf-v5.1.2/",
+    "idf.pythonInstallPath": "D:\\software\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.toolsPathWin": "D:\\software\\Espressif",
+    "files.associations": {
+        "gpio.h": "c",
+        "esp32s3_defs.h": "c",
+        "ebsp.h": "c",
+        "stdio.h": "c",
+        "ebsp_led.h": "c",
+        "common_header.h": "c",
+        "stdbool.h": "c",
+        "freertos.h": "c",
+        "queue.h": "c",
+        "timers.h": "c",
+        "event_groups.h": "c"
+    },
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "D:\\software\\Espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1",
+        "ESP_ROM_ELF_DIR": "D:\\software\\Espressif\\tools\\esp-rom-elfs\\20230320/",
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.portWin": "COM3"
+}
